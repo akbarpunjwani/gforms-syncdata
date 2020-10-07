@@ -26,3 +26,6 @@ This is currently the READONLY utility and hence provide the opportunity to temp
 
 ## How to make Contributions?
 We’re eager to work with you, our user community, to improve these materials and develop new ones. Please check out [GOOGLE DATA SPREADSHEET API guide](https://developers.google.com/sheets/api/v3/data) for more information on getting started.
+
+## License
+GForms-SyncData is distributed under the MIT license.
